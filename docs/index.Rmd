@@ -10,16 +10,14 @@ output:
     toc_float: yes
 ---
 
-# R Markdown
+# Elaboración de un mapa simple y pichirruchento
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+En este apartado se generará un tipo de mapa nivel Casusol Ortega, osea full copia y pega, asi q no jodan!
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+## Apartado de programación
 
-## Including Plots
+Pronto saldrá esto y cuando salga, ya verás.
 
-You can also embed plots, for example:
+### Comentarios finales
 
-### Final advertising
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Luis Casusol Ortega es un ser amorfo, proveniente del planeta yadorat y que se dice ser creador de una IA que no es mas que chat GPT 3!! Gaaaa
