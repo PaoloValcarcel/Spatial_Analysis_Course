@@ -3,21 +3,19 @@ title: "Spatial Analysis Course"
 author: "Paolo E. Valcarcel Pineda"
 output: 
   html_document:
-    fig_caption: yes
+    fig_caption: true
     theme: cerulean
-    tec: yes
+    lang: es-ES
+    toc: true
     toc_depth: 3
-    toc_float: yes
+    toc_float: true
 ---
+\pagebreak
 
-# Elaboración de un mapa simple y pichirruchento
-
-En este apartado se generará un tipo de mapa nivel Casusol Ortega, osea full copia y pega, asi q no jodan!
+# Bubble Maps
 
 ## Apartado de programación
 
-Pronto saldrá esto y cuando salga, ya verás.
-
 ### Comentarios finales
 
-Luis Casusol Ortega es un ser amorfo, proveniente del planeta yadorat y que se dice ser creador de una IA que no es mas que chat GPT 3!! Gaaaa
+# Bubble Maps 2
